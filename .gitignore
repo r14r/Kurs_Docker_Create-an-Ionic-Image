@@ -2,3 +2,6 @@
 **/.ssh
 **/app/node_modules
 **/.angular
+
+**/.vscode/*.log
+
