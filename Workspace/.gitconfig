@@ -1,0 +1,13 @@
+[user]
+	email = r14r@via-internet.de
+	name = Ralph Göstenmeier
+[core]
+	longpaths = true
+	autocrlf = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[credential]
+	helper = "!f() { /workspace/.vscode-server-insiders/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47-insider/node /tmp/vscode-remote-containers-f51db9b8a366fabb7914a08834a0c26c1366c761.js $*; }; f"
