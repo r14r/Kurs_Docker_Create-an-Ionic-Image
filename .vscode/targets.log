@@ -1,0 +1,401 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Mon May 09 07:07:14 2022
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+JAVA_HOME = D:\DevApps\Java\JDK\15
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\rg
+# environment
+XAMPP_HOME = D:\SrvApps\XAMPP\8.0.7
+# environment
+GIT_CONFIG = D:\CLOUD\Environments\Github\config.d\r14r\gitconfig
+# environment
+LOCALAPPDATA = C:\Users\rg\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-d5f1bc70-ea64-4dc8-b6ce-2c7cf2ff013e-sock
+# environment
+WSLENV = WT_SESSION::WT_PROFILE_ID
+# environment
+VSCODE_CWD = D:\Enrichment\IONIC\DATEN
+# environment
+CHOCOLATEYINSTALL = D:\APPDATA\Chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = D:\DATEN\OneDrive - via-internet-de - 2\OneDrive - via-internet.de\Dokumente\PowerShell\Modules;C:\Program Files\PowerShell\Modules;d:\cloud\environments\powershell\7.2.2\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := D:/APPDATA/Chocolatey/lib/make/tools/install/bin/make.exe
+# environment
+NPM_CONFIG_USERCONFIG = D:\Enrichment\.npmrc
+# environment
+NODE_HOME = D:\Enrichment\Programme\NodeJS\16.14.2
+# environment
+PTSMINSTALLPATH_X86 = c:\Program Files (x86)\HP\HP ProtectTools Security Manager\Bin\
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+RUBY_HOME = D:\CLOUD\Environments\Ruby\3.0.0-1
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_6532_WYYYRLBXUJBIPFHJ
+# environment
+VS160COMCOMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\
+# environment
+ONEDRIVECOMMERCIAL = D:\DATEN\OneDrive - via-internet-de - 2\OneDrive - via-internet.de
+# environment
+GO_HOME = D:\DevApps\Go
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+HUGO_HOME = D:\DevApps\Hugo\0.80.0_Extended
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+ENVIRONMENTS = D:\CLOUD\Environments
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = true
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = D:\Enrichment\Programme\VSCode\2022-05-08-18-02\data\user-data\CachedData\57fd6d0195bb9b9d1b49f6da5db789060795de47
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\rg\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# environment
+LIBJABRA_TRACE_LEVEL = debug
+# makefile
+MAKEFLAGS = 
+ pqrR
+# environment
+BRS = C:\Program Files\HP\Sure Click\servers
+# environment
+ONEDRIVE = D:\DATEN\OneDrive - via-internet-de - 2\OneDrive - via-internet.de
+# environment
+IDEA_HOME = D:\DevApps\IntelliJ IDEA Ultimate
+# makefile
+CURDIR := d:/Enrichment/IONIC/DATEN
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+GITHUB_USER = r14r
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile
+MAKEFILE_LIST := 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 6532
+# environment
+CMAKE_HOME = D:\DevApps\CMake\3.19.6
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# environment
+POSH_THEMES_PATH = C:\Users\rg\.oh-my-posh\themes
+# environment
+CHOCOLATEY_HOME = D:\APPDATA\Chocolatey
+# environment
+ONLINESERVICES = Online Services
+# environment
+PROGRAMS = D:\Enrichment\Programme
+# environment
+CHOCOLATEYBINROOT = D:\WinApps\ChocolateyApps
+# environment
+WT_PROFILE_ID = {7db72750-2044-43c8-8cb4-23cedd0e3c78}
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+MYSQL_HOME = D:\SrvApps\XAMPP\8.0.7\mysql
+# environment
+HUB_CONFIG = D:\CLOUD\Environments\Github\hub.d\r14r
+# environment
+VSCODE_NLS_CONFIG = {"l 
+ocale":"de","availableLanguages":{},"_languagePackSupport":true}
+# environment
+HOME_VSCODE = D:\Enrichment\Programme\VSCode\code
+# environment
+ENVIRONMENT = D:\Enrichment
+# environment
+ONEDRIVECONSUMER = C:\Users\rg\OneDrive
+# default
+MAKE_HOST := Windows32
+# environment
+ANDROID_HOME = D:\DevApps\Android\SDK
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\rg
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = D:\WinApps\TeX\MiKTeX\miktex\bin\x64;D:\Enrichment\Programme\NodeJS\16.14.2\node;D:\Enrichment\Programme\NodeJS\16.14.2\npm;D:\Enrichment\Programme\NodeJS\16.14.2\node_modules\npm\bin;D:\Enrichment\Programme\VSCode\code;D:\Enrichment\Programme\VSCode\code\bin;C:\Users\rg\.oh-my-posh;D:\CLOUD\Environments\PowerShell\7.2.2;D:\DevApps\DeveloperTools\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;D:\CLOUD\Environments\PowerShell\7.1.2;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\CLOUD\Environments\Python\3.9.6;D:\CLOUD\Environments\Python\3.9.6\Scripts;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\rg\.cargo\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\DevApps\CMake\3.19.6\bin;D:\DevApps\Android\Studio\bin;D:\DevApps\Android\SDK\emulator;D:\DevApps\Android\SDK\tools;D:\DevApps\Android\SDK\tools\bin;D:\DevApps\Android\SDK\platform-tools;D:\DevApps\IntelliJ IDEA Ultimate\bin;C:\Program Files\dotnet\;D:\DevApps\Azure\Azure Functions Core Tools\;D:\DevApps\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\chocolatey\bin;D:\APPDATA\Chocolatey\bin;D:\APPDATA\Chocolatey\Tools;D:\APPDATA\Chocolatey\lib\Elixir/bin;D:\WinApps\ImageMagick\7.0.11-Q16;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Google\Chrome\Application;D:\DevApps\Vagrant\bin;D:\DevApps\Erlang\bin;C:\Program Files (x86)\Common Files\Adobe\AGL;D:\DevApps\Git\cmd;D:\DevApps\Github CLI\;D:\DevApps\Git LFS;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\CLOUD\Programmier-Workshops\Kurse\Rust\Programme\Rust\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\rg\AppData\Local\Volta\bin;C:\Users\rg\AppData\Local\Microsoft\WindowsApps;C:\Users\rg\.dotnet\tools;C:\Users\rg\AppData\Local\GitHubDesktop\bin;C:\Users\rg\AppData\Local\Programs\Microsoft VS Code\bin;D:\WinApps\TeX\MiKTeX\miktex\bin\x64\;D:\APPDATA\Chocolatey\Tools\dart-sdk\bin;C:\Users\rg\AppData\Roaming\Pub\Cache\bin;C:\Program Files\JetBrains\PyCharm 2021.3.3\bin;D:\DevApps\Github CLI;D:\DevApps\SysInternals;D:\DevApps\DeveloperTools\bin;D:\DevApps\DeveloperTools\bin.ps1;D:\WinApps\TeX\MiKTeX\miktex\bin\x64;D:\Enrichment\Programme\NodeJS\16.14.2\node;D:\Enrichment\Programme\NodeJS\16.14.2\npm;D:\Enrichment\Programme\NodeJS\16.14.2\node_modules\npm\bin;D:\Enrichment\Programme\VSCode\code;D:\Enrichment\Programme\VSCode\code\bin;C:\Users\rg\.oh-my-posh;D:\CLOUD\Environments\PowerShell\7.2.2;D:\DevApps\DeveloperTools\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;D:\CLOUD\Environments\PowerShell\7.1.2;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\CLOUD\Environments\Python\3.9.6;D:\CLOUD\Environments\Python\3.9.6\Scripts;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\rg\.cargo\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\DevApps\CMake\3.19.6\bin;D:\DevApps\Android\Studio\bin;D:\DevApps\Android\SDK\emulator;D:\DevApps\Android\SDK\tools;D:\DevApps\Android\SDK\tools\bin;D:\DevApps\Android\SDK\platform-tools;D:\DevApps\IntelliJ IDEA Ultimate\bin;C:\Program Files\dotnet\;D:\DevApps\Azure\Azure Functions Core Tools\;D:\DevApps\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\chocolatey\bin;D:\APPDATA\Chocolatey\bin;D:\APPDATA\Chocolatey\Tools;D:\APPDATA\Chocolatey\lib\Elixir/bin;D:\WinApps\ImageMagick\7.0.11-Q16;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Google\Chrome\Application;D:\DevApps\Vagrant\bin;D:\DevApps\Erlang\bin;C:\Program Files (x86)\Common Files\Adobe\AGL;D:\DevApps\Git\cmd;D:\DevApps\Github CLI\;D:\DevApps\Git LFS;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\CLOUD\Programmier-Workshops\Kurse\Rust\Programme\Rust\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\rg\AppData\Local\Volta\bin;C:\Users\rg\AppData\Local\Microsoft\WindowsApps;C:\Users\rg\.dotnet\tools;C:\Users\rg\AppData\Local\GitHubDesktop\bin;C:\Users\rg\AppData\Local\Programs\Microsoft VS Code\bin;D:\WinApps\TeX\MiKTeX\miktex\bin\x64\;D:\APPDATA\Chocolatey\Tools\dart-sdk\bin;C:\Users\rg\AppData\Roaming\Pub\Cache\bin;C:\Program Files\JetBrains\PyCharm 2021.3.3\bin;D:\DevApps\Github CLI
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = HP-RALPH
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# e 
+nvironment
+PYCHARM = C:\Program Files\JetBrains\PyCharm 2021.3.3\bin;
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132908856057378471
+# environment
+WT_SESSION = 266f6c71-3dfa-4e02-9d37-62e1aec5c3ac
+# environment
+POWERSHELL_HOME = D:\CLOUD\Environments\PowerShell\7.1.2
+# environment
+PTSMINSTALLPATH = c:\Program Files\HP\HP ProtectTools Security Manager\Bin\
+# environment
+LOGONSERVER = \\HP-RALPH
+# environment
+USE_VSCODE = code
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = rg
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+RUST_HOME = C:\Users\rg\.cargo
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = HP-RALPH
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+GIT_LFS_PATH = D:\DevApps\Git LFS
+# environment
+OS = 
+ Windows_NT
+# environment
+HUB_USER = r14r
+# environment
+GOOGLE_HOME = C:\Program Files\Google\Chrome\Application
+# environment
+VSCODE_PORTABLE = D:\Enrichment\Programme\VSCode\2022-05-08-18-02\data
+# makefile
+.DEFAULT_GOAL := 
+# default
+MAKE_VERSION := 4.3
+# environment
+HOME_GITHUB = D:\CLOUD\Environments\Github
+# environment
+PLATFORMCODE = AN
+# environment
+HOME_MIKTEX = D:\WinApps\TeX\MiKTeX
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+POSH_PATH = C:\Users\rg\.oh-my-posh
+# environment
+USERDOMAIN_ROAMINGPROFILE = HP-RALPH
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\rg\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+VS160PROCOMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\Tools\
+# environment
+PHP_HOME = D:\SrvApps\XAMPP\8.0.7\php
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+ANDROID_SDK = D:\DevApps\Android\SDK
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = C:\Users\rg
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+ANT_HOME = C:\ProgramData\chocolatey\lib\ant\tools\apache-ant-1.10.9
+# environment
+TEMP = C:\Users\rg\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\469796e7eaf457d5dd56c4d522eb97c2-1.67.0-insider-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+BRB = C:\Program Files\HP\Sure Click\bin
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+PYTHON3_HOME = D:\CLOUD\Environments\Python\3.9.6
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+REGIONCODE = EMEA
+# environment
+PROCESSOR_REVISION = 8e0c
+# environment
+PYTHON2_HOME = D:\DevAp 
+ps\Python\2
+# environment
+DEVELOPERTOOLS_HOME = D:\DevApps\DeveloperTools
+# environment
+USE_NODE = 16.14.2
+# environment
+CHOCOLATEYTOOLSLOCATION = D:\APPDATA\Chocolatey\Tools
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+# variable set hash-table stats:
+# Load=152/1024=15%, Rehash=0, Collisions=19/176=11%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/Enrichment/IONIC/DATEN, mtime 1652029977): 5 files, no impossibilities.
+
+# 5 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile.mak:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions 
+=0/16=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 12 / storage = 103 B / avg = 8 B
+# current buf: size = 8174 B / used = 103 B / count = 12 / avg = 8 B
+
+# strcache performance: lookups = 15 / hit rate = 20%
+# hash-table stats:
+# Load=12/8192=0%, Rehash=0, Collisions=0/15=0%
+# Finished Make data base on Mon May 09 07:07:14 2022
+
+ 
